@@ -5,3 +5,4 @@ test_ledger
 Cargo.lock
 package-lock.json
 .DS_Store
+test-ledger
