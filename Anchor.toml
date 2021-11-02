@@ -4,3 +4,6 @@ wallet = "~/.config/solana/id.json"
 
 [scripts]
 test = "mocha --require ts-node/register tests/*.ts -t 1000000"
+
+[programs.localnet]
+mysolanaapp = "2R7YjbfH9rny3Lu85C1XRdVYJZDiEb4ffTvRCJjSJYSh"
